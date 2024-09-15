@@ -19,7 +19,7 @@ This project is a simple blockchain implementation using Node.js, Elliptic Curve
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/blockchain-project.git
+    git clone [https://github.com/yourusername/blockchain-project.git](https://github.com/DipeshK47/Blockchain-with-JavaScript)
     ```
 
 2. Install the required dependencies:
